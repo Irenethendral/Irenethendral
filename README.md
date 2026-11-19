@@ -7,5 +7,7 @@ My goal is to start a Business.
 
 ### Currently Learning & Exploring ###
 **Programming & web:** Python, HTML, CSS
-**Tools &Workflow**
+**Tools &Workflow:** Git, GitHub, VS Code
+**Interests:** Entrepreneurship, Puzzle solving
+
 
