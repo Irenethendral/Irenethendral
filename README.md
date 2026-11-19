@@ -10,6 +10,7 @@ My goal is to start a Business.
 **Tools &Workflow:** Git, GitHub, VS Code
 **Interests:** Entrepreneurship, Puzzle solving
 ### Project
-**[CRUD Book Management System] (
-
+* **[CRUD Book Management System] (https://github.com/Irenethendral/CRUD-Book-Management-System)
+* **Overview** A python-based book management application built as a first-year CSE coursework assignment to perform Create, Read, Update, and Delete operations.
+* **Tech Stack** Python, 
 
